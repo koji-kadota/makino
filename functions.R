@@ -1,14 +1,3 @@
-################################################################################
-## This file contains functions to run MBCdeg as well as conventional methods (i.e., TCC, edgeR, and DEseq2).
-## Usage example:
-##   source("MBCdeg.R")
-##   count_matrix <- read.table("https://github.com/takosa/MBCdeg-paper/blob/main/sample.txtsample.txt")
-##   treatment <- data.cl <- c(rep(1, 5), rep(2, 6))
-##   K <- 3
-##   result <- MBCdeg(counts = count_matrix, treatment = treatment, K = K)
-##   print(result)
-################################################################################
-
 ###  MBCdeg  ###
 MBCdeg <- function(counts, treatment, K, normalizer = NULL, geneid = NULL) {
   
