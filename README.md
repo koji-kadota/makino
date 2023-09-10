@@ -19,4 +19,8 @@ install.packages("https://cran.r-project.org/src/contrib/Archive/MBCluster.Seq/M
 ```
 
 ###  functions.R  ###
-This file contains functions to execute the four methods ([edgeR](https://bioconductor.org/packages/edgeR/), [DESeq2](https://bioconductor.org/packages/DESeq2/), [TCC](https://bioconductor.org/packages/TCC/), and [MBCdeg](https://pubmed.ncbi.nlm.nih.gov/34670485/)) in a unified manner.
+This file contains functions to execute the four methods ([edgeR](https://bioconductor.org/packages/edgeR/), [DESeq2](https://bioconductor.org/packages/DESeq2/), [TCC](https://bioconductor.org/packages/TCC/)-DE, and [MBCdeg](https://pubmed.ncbi.nlm.nih.gov/34670485/)) in a unified manner.
+
+###  simu1_tcc.R  ###
+This file contains scripts to execute the differential expression analysis for [TCC](https://bioconductor.org/packages/TCC/) simulated data. It includes 
+
