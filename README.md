@@ -7,12 +7,12 @@ To execute the codes, [edgeR](https://bioconductor.org/packages/edgeR/), [DESeq2
 ```r
 if (!requireNamespace("BiocManager", quietly=T))
     install.packages("BiocManager")
+BiocManager::install("DESeq2", update=F)
+BiocManager::install("edgeR", update=F)
+BiocManager::install("TCC", update=F)
 BiocManager::install("compcodeR", update=F)
 BiocManager::install("PROPER", update=F)
-BiocManager::install("recount", update=F)
-BiocManager::install("ggsci", update=F)
-BiocManager::install("TCC", update=F)
-BiocManager::install("tidyverse", update=F)
 install.packages("https://cran.r-project.org/src/contrib/Archive/MBCluster.Seq/MBCluster.Seq_1.0.tar.gz")
-BiocManager::install("DESeq2", update=F)
+BiocManager::install("recount", update=F)
+BiocManager::install("stringr", update=F)
 ```
