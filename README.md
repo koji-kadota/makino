@@ -22,10 +22,23 @@ install.packages("https://cran.r-project.org/src/contrib/Archive/MBCluster.Seq/M
 This file contains functions to execute the four methods ([edgeR](https://bioconductor.org/packages/edgeR/), [DESeq2](https://bioconductor.org/packages/DESeq2/), [TCC](https://bioconductor.org/packages/TCC/)-DE, and [MBCdeg](https://pubmed.ncbi.nlm.nih.gov/34670485/)) in a unified manner.
 
 ###  simu1_tcc.R  ###
-This file contains scripts to execute the [TCC](https://bioconductor.org/packages/TCC/) simulation analysis. It includes (1) generation of TCC simulated data, (2) execution of differential expression analysis, and (3) calculation of evaluation metrics (i.e., AUC, Accuracy, and so on).
+This file contains scripts to perform the [TCC](https://bioconductor.org/packages/TCC/) simulation analysis. It includes (1) generation of TCC simulated data, (2) execution of differential expression analysis, and (3) calculation of evaluation metrics (i.e., AUC, Accuracy, and so on).
 
 ###  simu2_com.R  ###
-This file contains scripts to execute the [compcodeR](https://bioconductor.org/packages/compcodeR/) simulation analysis. It includes (1) generation of compcodeR simulated data, (2) execution of differential expression analysis, and (3) calculation of evaluation metrics (i.e., AUC, Accuracy, and so on).
+This file contains scripts to perform the [compcodeR](https://bioconductor.org/packages/compcodeR/) simulation analysis. It includes (1) generation of compcodeR simulated data, (2) execution of differential expression analysis, and (3) calculation of evaluation metrics (i.e., AUC, Accuracy, and so on).
 
 ###  simu3_pro.R  ###
-This file contains scripts to execute the [PROPER](https://bioconductor.org/packages/PROPER/) simulation analysis. It includes (1) generation of PROPER simulated data, (2) execution of differential expression analysis, and (3) calculation of evaluation metrics (i.e., AUC, Accuracy, and so on).
+This file contains scripts to perform the [PROPER](https://bioconductor.org/packages/PROPER/) simulation analysis. It includes (1) generation of PROPER simulated data, (2) execution of differential expression analysis, and (3) calculation of evaluation metrics (i.e., AUC, Accuracy, and so on).
+
+###  real1_Blekhman_2010.R  ###
+This file contains scripts to analyze the "[Blekhman_2010](https://pubmed.ncbi.nlm.nih.gov/20009012/)" data.
+
+###  real1_Blekhman_2010.R  ###
+This file contains scripts to analyze the "[Blekhman_2010](https://pubmed.ncbi.nlm.nih.gov/20009012/)" data.
+
+###  real1_Blekhman_2010.R  ###
+This file contains scripts to analyze the "[Blekhman_2010](https://pubmed.ncbi.nlm.nih.gov/20009012/)" data.
+
+###  real1_Blekhman_2010.R  ###
+This file contains scripts to analyze the "[Blekhman_2010](https://pubmed.ncbi.nlm.nih.gov/20009012/)" data.
+
