@@ -24,3 +24,8 @@ This file contains functions to execute the four methods ([edgeR](https://biocon
 ###  simu1_tcc.R  ###
 This file contains scripts to execute the [TCC](https://bioconductor.org/packages/TCC/) simulation analysis. It includes (1) generation of TCC simulated data, (2) execution of differential expression analysis, and (3) calculation of evaluation metrics (i.e., AUC, Accuracy, and so on).
 
+###  simu2_com.R  ###
+This file contains scripts to execute the [compcodeR](https://bioconductor.org/packages/compcodeR/) simulation analysis. It includes (1) generation of compcodeR simulated data, (2) execution of differential expression analysis, and (3) calculation of evaluation metrics (i.e., AUC, Accuracy, and so on).
+
+###  simu3_pro.R  ###
+This file contains scripts to execute the [PROPER](https://bioconductor.org/packages/PROPER/) simulation analysis. It includes (1) generation of PROPER simulated data, (2) execution of differential expression analysis, and (3) calculation of evaluation metrics (i.e., AUC, Accuracy, and so on).
