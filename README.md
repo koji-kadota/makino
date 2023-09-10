@@ -1,6 +1,6 @@
 # makino
 
-This repository contains R-codes used in Makino et al's paper (inpreparation). All analyses were performed using R ver. 4.2.3.
+This repository contains R-codes used in Makino et al's paper (in preparation). All analyses were performed using R ver. 4.2.3.
 
 ## Prerequisite 
 To execute the codes, [edgeR](https://bioconductor.org/packages/edgeR/), [DESeq2](https://bioconductor.org/packages/DESeq2/), [TCC](https://bioconductor.org/packages/TCC/), [ROC](https://bioconductor.org/packages/ROC/), [compcodeR](https://bioconductor.org/packages/compcodeR/), [PROPER](https://bioconductor.org/packages/PROPER/), [recount](https://bioconductor.org/packages/recount/), [stringr](https://bioconductor.org/packages/stringr/), and [MBCluster.Seq](https://CRAN.R-project.org/package=MBCluster.Seq) are needed:  
