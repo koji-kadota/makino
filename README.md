@@ -33,12 +33,12 @@ This file contains scripts to perform the [PROPER](https://bioconductor.org/pack
 ###  real1_Blekhman_2010.R  ###
 This file contains scripts to analyze the "[Blekhman_2010](https://pubmed.ncbi.nlm.nih.gov/20009012/)" data.
 
-###  real1_Blekhman_2010.R  ###
-This file contains scripts to analyze the "[Blekhman_2010](https://pubmed.ncbi.nlm.nih.gov/20009012/)" data.
+###  real2_Pickrell_2010.R  ###
+This file contains scripts to analyze the "[Pickrell_2010](https://pubmed.ncbi.nlm.nih.gov/20220758/)" data.
 
-###  real1_Blekhman_2010.R  ###
-This file contains scripts to analyze the "[Blekhman_2010](https://pubmed.ncbi.nlm.nih.gov/20009012/)" data.
+###  real3_Riaz_2017.R  ###
+This file contains scripts to analyze the "[Riaz_2017](https://pubmed.ncbi.nlm.nih.gov/29033130/)" data.
 
-###  real1_Blekhman_2010.R  ###
-This file contains scripts to analyze the "[Blekhman_2010](https://pubmed.ncbi.nlm.nih.gov/20009012/)" data.
+###  real4_Li_2014.R  ###
+This file contains scripts to analyze the "[Li_2014](https://pubmed.ncbi.nlm.nih.gov/24441097/)" data.
 
